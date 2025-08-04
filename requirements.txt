@@ -1,0 +1,19 @@
+# Core Data Processing
+numpy>=2.0.2
+pandas>=2.2.3
+openpyxl>=3.1.5  # For Excel support
+
+# Machine Learning & Statistics
+scikit-learn>=1.6.0
+statsmodels>=0.14.4
+keras>=3.7.0
+tensorflow>=2.18.0
+
+# Visualization
+matplotlib>=3.9.3
+seaborn>=0.13.2
+plotly>=5.24.1
+
+# Additional Utilities
+protobuf>=3.20.0  # Required by TensorFlow
+h5py>=3.12.1  # For model saving/loading
