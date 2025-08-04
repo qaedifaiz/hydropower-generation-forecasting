@@ -6,21 +6,17 @@ This repository contains the implementation of a research project focused on for
 ## Repository Structure
 ```
 ├── data/
-│   ├── era5_climate_data.csv     # ERA5 climate dataset
-│   ├── temenggor_power_data.csv  # Temenggor hydropower generation data
+│   ├── era5_climate_temenggor_power_data.xlsx     # compiled dataset
 ├── paper/
 │   ├── Mohd_Qaedi_Faiz_Application_of_Deep_Learning_Models_For_Forecasting_Hydropower_Plant_Power_Generation.pdf  # Research paper
 ├── scripts/
 │   ├── eda_feature_selection.ipynb  # Exploratory Data Analysis and Mutual Information feature selection
-│   ├── models/
-│   │   ├── cnn.ipynb             # CNN model implementation and training
-│   │   ├── lstm.ipynb            # LSTM model implementation, training, and 90-day forecasting
-│   │   ├── cnn_lstm.ipynb        # CNN-LSTM hybrid model implementation and training
-│   │   ├── lstm_cnn.ipynb        # LSTM-CNN hybrid model implementation and training
-├── figures/
-│   ├── eda_plots/                # EDA visualizations
-│   ├── model_performance/        # Model performance graphs
-│   ├── forecast_plots/           # Forecast vs actual plots
+│   ├── models-training/
+│   │   ├── CNN.ipynb             # CNN model implementation and training
+│   │   ├── LSTM.ipynb            # LSTM model implementation, training, and 90-day forecasting
+│   │   ├── CNN_LSTM.ipynb        # CNN-LSTM hybrid model implementation and training
+│   │   ├── LSTM_CNN.ipynb        # LSTM-CNN hybrid model implementation and training
+├── tools/
 ├── README.md                     # This file
 └── requirements.txt              # Python dependencies
 ```
