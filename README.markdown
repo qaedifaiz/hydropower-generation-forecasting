@@ -128,5 +128,5 @@ If you use this code or data, please cite:
 
 ## Contact
 For inquiries, contact:
-- Mohd Qaedi Faiz Abdul Aziz (mohdqaedifaiz@example.com)
-- Sofianita Mutalib (sofianita@example.com)
+- Mohd Qaedi Faiz Abdul Aziz (qaedifaiz95@gmail.com)
+- Sofianita Mutalib (sofianita@uitm.edu.my)
